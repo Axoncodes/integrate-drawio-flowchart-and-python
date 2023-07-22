@@ -1,6 +1,6 @@
 # Capabilities
 You can visit the demo_flowchart.drawio and commands.py files as an example.
-- Identify the "Data" shapes
+- Identify the "Data, process, Storage, Decision, Display" shapes
 - Identify the edges connecting one to another
 - Sort from start to end
 # How to use
